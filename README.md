@@ -1,5 +1,4 @@
 # verbose
-This repo is for new learner.
+This is my fresh start. I am glad to using this.
+i want to become a spftware developer.
 
-This repo explains use of GitHub to everyone.
-hello world
